@@ -7,6 +7,7 @@ creada por la UCR [disponible en](https://ci.ucr.ac.cr/firmadigital) y usando la
 
 # TODAVIA EN DESARROLLO (Modo experimental) 
 
-This is the shade package to single use, but it's only for test [firmadorDigitalCR.jar](https://github.com/luisza/firmadorDigitalCR/releases/download/v.0.1/firmadorDigitalCR.jar)
+Existe un compilado con todas las dependencias disponible bajo el nombre de [firmadorDigitalCR.jar](https://github.com/luisza/firmadorDigitalCR/releases/download/v.0.1/firmadorDigitalCR.jar).
 
-If you are testing take care of saved file format
+Esto es una prueba de concepto, todavía no intenta ser un programa para usuarios comunes, pero si firma respetando la legislatura nacional.
+Por cierto tener cuidado con el tipo de formato que guarda.... por defecto es pdf.
